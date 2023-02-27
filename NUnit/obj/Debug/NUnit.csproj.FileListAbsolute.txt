@@ -1,0 +1,8 @@
+C:\Users\nuhah\source\repos\NUnit\NUnit\bin\Debug\NUnit.exe.config
+C:\Users\nuhah\source\repos\NUnit\NUnit\bin\Debug\NUnit.exe
+C:\Users\nuhah\source\repos\NUnit\NUnit\bin\Debug\NUnit.pdb
+C:\Users\nuhah\source\repos\NUnit\NUnit\obj\Debug\NUnit.csproj.AssemblyReference.cache
+C:\Users\nuhah\source\repos\NUnit\NUnit\obj\Debug\NUnit.csproj.SuggestedBindingRedirects.cache
+C:\Users\nuhah\source\repos\NUnit\NUnit\obj\Debug\NUnit.csproj.CoreCompileInputs.cache
+C:\Users\nuhah\source\repos\NUnit\NUnit\obj\Debug\NUnit.exe
+C:\Users\nuhah\source\repos\NUnit\NUnit\obj\Debug\NUnit.pdb
